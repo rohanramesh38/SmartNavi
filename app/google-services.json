@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018282215868",
+    "firebase_url": "https://smartnavi-7db81.firebaseio.com",
+    "project_id": "smartnavi-7db81",
+    "storage_bucket": "smartnavi-7db81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018282215868:android:87581452c1da324a7e83b9",
+        "android_client_info": {
+          "package_name": "com.insight.smartnavi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018282215868-1numeb7jedrin4kcde9ops5575e36tnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insight.smartnavi",
+            "certificate_hash": "eb1df410c54d8470907985873351a4a6956a3e41"
+          }
+        },
+        {
+          "client_id": "1018282215868-j9f7dlhde4o5fn235s6t2vvheda5r60q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6o68BqvRLZ_GMWkFr2f2I-BDwHxqCvLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018282215868-j9f7dlhde4o5fn235s6t2vvheda5r60q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
